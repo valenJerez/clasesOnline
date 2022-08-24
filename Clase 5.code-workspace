@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\Clase 5"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Clase 4"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "proyecto"
+	}
+}
